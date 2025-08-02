@@ -1,21 +1,21 @@
-# 📝 First To-Do App
+# First To-Do App
 
 Hi! This is my very first to-do app. I built it by following a YouTube tutorial and then expanded it with additional features while learning new programming concepts.
 
 ---
 
-## 🚀 About the App
+## About the App
 
 This is a simple, user-friendly web application that helps you keep track of your daily tasks, activities, or anything you need to remember.
 
 You can:
-- ✅ Write down tasks you want to complete
-- 🟢 Mark them as finished by clicking the circle next to the task
-- 🗑️ Delete them anytime by clicking the trash bin icon
+-  Write down tasks you want to complete
+- Mark them as finished by clicking the circle next to the task
+- Delete them anytime by clicking the trash bin icon
 
 ---
 
-## 💡 Features
+## Features
 
 - Add new tasks
 - Mark tasks as completed
@@ -25,7 +25,7 @@ You can:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML
 - CSS
@@ -33,20 +33,20 @@ You can:
 
 ---
 
-## 📦 Live Demo
+## Live Demo
 
 👉 [View the app on Netlify](https://your-app-name.netlify.app)  
 *(replace with your real URL once deployed)*
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 
 Created by [@mariagutt963](https://github.com/mariagutt963)
 
 ---
 
-## 📌 Future Ideas
+## Future Ideas
 
 - Add task categories or priorities
 - Save tasks using localStorage or Firebase
