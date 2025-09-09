@@ -33,14 +33,6 @@ You can:
 
 ---
 
-## Live Demo
-
-👉 [View the app on Netlify](https://your-app-name.netlify.app)  
-*(replace with your real URL once deployed)*
-
----
-
-## Author
 
 Created by [@mariagutt963](https://github.com/mariagutt963)
 
