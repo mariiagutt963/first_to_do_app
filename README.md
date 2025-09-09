@@ -21,7 +21,7 @@ You can:
 - Mark tasks as completed
 - Delete tasks
 - Clean and intuitive interface
-- Fully responsive (optional: if it is)
+- Fully responsive 
 
 ---
 
